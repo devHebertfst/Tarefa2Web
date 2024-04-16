@@ -26,7 +26,8 @@ body{
 img{
     width: 35rem;
     height:25rem;
-    padding-top: 3rem;
+    margin-top: 3rem;
+    border: #F7EBFD solid 1.5rem;
 }
 
 .titulo1{
