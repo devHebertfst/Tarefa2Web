@@ -19,10 +19,13 @@ body{
     border: #F7EBFD solid 1rem;
 }
 
+.image{
+    text-align: center;
+}
+
 img{
     width: 35rem;
     height:25rem;
-    padding-left: 23rem;
     padding-top: 3rem;
 }
 
